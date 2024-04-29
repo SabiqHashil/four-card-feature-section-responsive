@@ -2,7 +2,7 @@
 
 A responsive Four card feature section, This page was built as a front-end project of [Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
-- [Page](https://sabiqhashil.github.io/product_preview_card_component_main-responsive/) - Final result of the project
+- [Page](https://sabiqhashil.github.io/four-card-feature-section-responsive/) - Final result of the project
 
 ## Built with
 
